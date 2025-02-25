@@ -1,8 +1,5 @@
 # ShipperHQ Shipping Tracker
 
-Facts
------
-- [extension on GitHub](https://github.com/shipperhq/module-shipping-tracker)
 
 Description
 -----------
@@ -56,17 +53,4 @@ Contribution
 ------------
 Any contribution is highly appreciated. The best way to contribute code is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
 
-License
--------
-Copyright (c) 2015 Zowta LLC & Zowta Ltd. See [license] for details.
-
-We also dutifully respect the [Magento] OSL license, which is included in this codebase.
-
-
-[license]: LICENSE.txt
-[magento]: https://github.com/magento/magento2/blob/2.4-develop/LICENSE.txt
-
-Copyright
----------
-Copyright (c) 2016 Zowta LLC & Zowta Ltd.
 
